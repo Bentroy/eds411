@@ -11,7 +11,12 @@ body {
   color: #fff;
 }
 .form-label {
-  color: #eadfff;
+  color: #000000;
+}
+
+.lite{
+    color: #5f36b1;
+    text-align: center;
 }
 .form-control {
   background: #2b1f3d;
